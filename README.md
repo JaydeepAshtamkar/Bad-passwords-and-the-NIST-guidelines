@@ -8,5 +8,5 @@ Following are the libraries/packages/concepts used.\
 pandas\
 Natural Language Processing\
 Dataframes\
-Regular Expressions\
+Regular Expressions
 
