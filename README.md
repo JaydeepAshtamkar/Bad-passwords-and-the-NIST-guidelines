@@ -6,4 +6,7 @@ In this project, taking a list of user passwords and, using publication 800-63B,
 
 Following are the libraries/packages/concepts used.\
 pandas\
-regular expressions
+Natural Language Processing\
+Dataframes\
+Regular Expressions\
+
